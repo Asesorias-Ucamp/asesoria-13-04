@@ -1,0 +1,17 @@
+{
+  "name": "otra-cosa",
+  "version": "1.0.0",
+  "description": "ejemplo asesoria",
+  "main": "rl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "asesoria"
+  ],
+  "author": "Jorge",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
